@@ -22,3 +22,21 @@ Awards and Recognition:
 - 2023 Best AI Solution Provider
 - 2024 Innovation Leader Award
 - Top 50 Tech Companies to Watch
+
+Fun Facts About TechCorp:
+- Our mascot is a friendly robot named "Byte" 🤖
+- Every Friday we host "AI Fridays" where employees demo their personal AI experiments
+- We have an in-office arcade room for team building
+- Our engineering team solved a classic puzzle called the "Towers of Hanoi" using an AI agent in just 47 milliseconds
+- We serve free artisanal coffee and offer a "bring your pet to work" policy on Thursdays
+
+Executive Team:
+- CEO: Alex Rivera (former AI researcher at MIT)
+- CTO: Sam Chen (inventor of 3 AI patents)
+- CPO: Jordan Taylor (10+ years in enterprise software)
+
+Recent News:
+- Q1 2025: Launched SmartAssist 3.0 with multimodal capabilities
+- Q2 2025: Expanded to European market (London, Amsterdam, Berlin offices)
+- Q3 2025: Partnership announced with three Fortune 500 companies
+- Q4 2025: DataVision named "Best Enterprise AI Tool" by TechReview Magazine

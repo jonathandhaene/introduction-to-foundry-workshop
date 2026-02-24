@@ -87,6 +87,25 @@ User Query ──┬──→ Embedding → Vector Search → Relevant Context
 
 Complete these individual labs before continuing to Lab 2. 
 
+## 🏆 Bonus Challenges
+
+Finished early? Try these challenges to deepen your understanding:
+
+### 🥉 Beginner
+- **Add a new document**: Create a `products.txt` file with detailed product specs and add it to the knowledge base. Ask the agent questions about it!
+- **Change the agent's name**: Try naming your agent something creative instead of `RAG-Chatbot`.
+- **Try different questions**: Ask the agent tricky questions — like "What is TechCorp's mascot?" — and see how well it grounds its answers.
+
+### 🥈 Intermediate
+- **Try a different chat model**: Swap `gpt-4.1-mini` for `gpt-4.1` and compare response quality and latency.
+- **Customize the system prompt**: Change the agent's instructions to respond in a different language (e.g., French) or adopt a different persona.
+- **Expand the knowledge base**: Add a `faq.txt` or `products_catalog.txt` with richer content and see how the agent handles new topics.
+
+### 🥇 Advanced
+- **Build a second agent**: Create a specialized "HR Policy Agent" with different documents and see how different system prompts affect the responses.
+- **Explore Foundry IQ agentic retrieval**: Test complex multi-part questions that require combining information from multiple document chunks.
+- **Add multilingual content**: Upload a document in a different language and see how the embedding model handles cross-lingual search.
+
 ##  Additional Resources
 
 - [Microsoft Foundry Documentation](https://learn.microsoft.com/en-us/azure/ai-foundry/)

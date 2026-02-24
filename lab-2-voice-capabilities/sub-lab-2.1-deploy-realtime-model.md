@@ -27,7 +27,7 @@ GPT Realtime is a speech-to-speech (S2S) model that went **Generally Available i
 
 ### Key Features
 
-- **Natural Voices**: Multiple voice options including Alloy, Ash, Coral, Echo, Sage, and Shimmer
+- **Natural Voices**: Multiple voice options including Alloy, Ash, Ballad, Coral, Echo, Sage, Shimmer, and Verse
 - **Instruction Following**: Ability to follow tone, pacing, and language instructions in the system prompt
 - **High Audio Quality**: Clear, glitch-free output with accurate alphanumeric reproduction
 - **Image Input Support**: Add images to context and discuss them via voice
@@ -39,7 +39,7 @@ GPT Realtime is a speech-to-speech (S2S) model that went **Generally Available i
 | Model | Best For | Notes |
 |-------|----------|-------|
 | `gpt-realtime` | Production voice applications | Full-featured GA model |
-| `gpt-mini-realtime` | Cost-effective, faster responses | Feature parity with full model |
+| `gpt-realtime-mini` | Cost-effective, faster responses | Feature parity with full model |
 | `gpt-realtime-preview` | Testing preview features | Use GA models for production |
 
 ### Pricing
