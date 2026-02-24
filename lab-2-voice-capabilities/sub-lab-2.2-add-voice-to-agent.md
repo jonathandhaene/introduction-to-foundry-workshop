@@ -85,10 +85,12 @@ The voice bot integrates GPT Realtime with your RAG agent from Lab 1 via **funct
 |-------|-------------|
 | **alloy** | Neutral, balanced |
 | **ash** | Warm tone |
+| **ballad** | Engaging storyteller |
 | **coral** | Conversational |
 | **echo** | Clear, direct |
 | **sage** | Calm, thoughtful |
 | **shimmer** | Soft, gentle (recommended) |
+| **verse** | Dynamic, energetic |
 
 ---
 
@@ -121,7 +123,7 @@ Add the GPT Realtime configuration to your existing `.env` file in the `lab-1-ra
 ```properties
 # GPT Realtime Configuration (for Lab 2)
 AZURE_OPENAI_REALTIME_DEPLOYMENT=gpt-realtime
-AZURE_OPENAI_REALTIME_VOICE=shimmer  # Options: alloy, ash, coral, echo, sage, shimmer
+AZURE_OPENAI_REALTIME_VOICE=shimmer  # Options: alloy, ash, ballad, coral, echo, sage, shimmer, verse
 ```
 
 > ✅ **What you're adding:**

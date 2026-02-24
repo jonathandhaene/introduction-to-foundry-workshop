@@ -167,7 +167,7 @@ You've completed the Foundry Workshop! You learned how to:
 
 ## 📚 Continue Learning
 
-- [Microsoft Foundry Documentation](https://learn.microsoft.com/azure/ai-studio/)
+- [Microsoft Foundry Documentation](https://learn.microsoft.com/azure/ai-foundry/)
 - [Azure OpenAI Service](https://learn.microsoft.com/azure/ai-services/openai/)
 - [RAG Pattern Best Practices](https://learn.microsoft.com/azure/ai-services/openai/concepts/retrieval-augmented-generation)
 - [GPT Realtime Audio](https://learn.microsoft.com/azure/ai-services/openai/realtime-audio)

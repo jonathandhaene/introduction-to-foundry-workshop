@@ -25,7 +25,7 @@ class EmbeddingGenerator:
         azure_openai_endpoint: str,
         azure_openai_api_key: str,
         embedding_deployment: str,
-        api_version: str = "2024-02-15-preview"
+        api_version: str = "2024-10-21"
     ):
         """
         Initialize embedding generator

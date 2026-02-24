@@ -37,3 +37,30 @@ Subscriptions can be cancelled anytime. You will retain access until the end of 
 
 Data Security:
 All data is encrypted in transit and at rest. We use industry-standard security protocols including TLS 1.3, AES-256 encryption, and regular security audits.
+
+Employee Perks Policy:
+TechCorp believes in work-life balance and offers:
+- Flexible remote work (3 days from home per week)
+- Unlimited PTO (subject to manager approval)
+- Annual $2,000 learning & development budget
+- Free gym membership
+- Monthly team lunch (budget: $50 per person)
+- Pet-friendly Thursdays in the office
+- Annual company hackathon with prizes up to $5,000
+
+Frequently Asked Questions:
+
+Q: Can I trial SmartAssist before purchasing?
+A: Yes! We offer a 14-day free trial with no credit card required. Sign up at techcorp.com/trial.
+
+Q: What integrations does CloudSync support?
+A: CloudSync integrates with AWS, Azure, Google Cloud, Salesforce, Slack, Microsoft Teams, and 50+ other platforms.
+
+Q: Is there a student or non-profit discount?
+A: Yes! Students get 50% off and registered non-profits get 30% off. Contact sales@techcorp.com with proof of eligibility.
+
+Q: What languages does SmartAssist support?
+A: SmartAssist currently supports English, Spanish, French, German, Dutch, Portuguese, Japanese, and Chinese (Simplified).
+
+Q: How do I get a demo of DataVision?
+A: Request a personalized demo at techcorp.com/demo or call 1-800-TECH-CORP during business hours.

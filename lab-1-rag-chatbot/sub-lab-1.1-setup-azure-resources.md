@@ -282,7 +282,7 @@ Edit `.env` with your endpoint and with your model-names if you didn't pick the 
 AZURE_OPENAI_ENDPOINT=https://foundry-workshop-[yourname].cognitiveservices.azure.com/
 AZURE_OPENAI_CHAT_DEPLOYMENT=gpt-4.1-mini
 AZURE_OPENAI_EMBEDDING_DEPLOYMENT=text-embedding-3-small
-AZURE_OPENAI_API_VERSION=2024-02-15-preview
+AZURE_OPENAI_API_VERSION=2024-10-21
 ```
 
 > 💡 **Note**: We're using Azure Identity (DefaultAzureCredential) for authentication instead of API keys. This is more secure and uses your `az login` credentials automatically.

@@ -122,11 +122,27 @@ GPT Realtime supports multiple voices:
 
 ---
 
+## 🏆 Bonus Challenges
+
+Finished early? Try these to explore more:
+
+### 🥉 Beginner
+- **Try a different voice**: Change `AZURE_OPENAI_REALTIME_VOICE` in your `.env` to `ballad`, `verse`, or `echo` and notice the personality difference.
+- **Test interruptions**: While the bot is speaking, start talking and see how it handles interruptions naturally.
+
+### 🥈 Intermediate
+- **Change the voice persona**: Update the system prompt in `VoiceEndpoints.cs` to make the bot respond as a friendly TechCorp support agent named "Byte" 🤖
+- **Switch to `semantic_vad`**: Change the `turn_detection.type` from `server_vad` to `semantic_vad` and compare how it handles natural pauses in speech.
+
+### 🥇 Advanced
+- **Multi-language voice**: Update the system prompt to respond in a different language (e.g., French or Spanish) and test if GPT Realtime naturally switches speech language.
+- **Custom function tool**: Add a second function tool (e.g., `get_current_promotions`) that returns mock data and observe how GPT Realtime orchestrates multiple tools.
+
 ##  Additional Resources
 
-- [GPT Realtime API Documentation](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/realtime-audio-quickstart)
-- [WebRTC Integration Guide](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/how-to/realtime-audio-webrtc)
-- [Voice Options Reference](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/realtime-audio-reference)
+- [GPT Realtime API Documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/realtime-audio-quickstart)
+- [WebRTC Integration Guide](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/realtime-audio-webrtc)
+- [Voice Options Reference](https://learn.microsoft.com/en-us/azure/ai-services/openai/realtime-audio-reference)
 
 ---
 

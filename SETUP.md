@@ -31,8 +31,8 @@ Ensure you have installed:
 4. Execute the command below to clone the repo
 
 ```bash
-git clone https://github.com/LauraVerghote/Introduction-to-Foundry-workshop.git
-cd Introduction-to-Foundry-workshop
+git clone https://github.com/jonathandhaene/introduction-to-foundry-workshop.git
+cd introduction-to-foundry-workshop
 ```
 
 ---
